@@ -78,6 +78,6 @@ portfolio/
 
 ## 👤 Author
 
-Amir Valiulla
-- GitHub: [@amirValiulla32](https://github.com/amirValiulla32)
-- LinkedIn: [Amir Valiulla](https://www.linkedin.com/in/amir-valiulla/)
+Dahlia Sukaik
+- GitHub: [@dahliasukaik](https://github.com/dahliasukaik)
+- LinkedIn: [Dahlia Sukaik](https://www.linkedin.com/in/dahliasukaik928/)
