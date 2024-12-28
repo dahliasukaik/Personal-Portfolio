@@ -161,6 +161,21 @@ body.dark-mode {
     margin-top: 2rem;
 }
 
+/* Styling the mission highlight */
+.mission-highlight {
+    font-size: 1.2em;
+    font-style: italic;
+    margin: 20px 0;
+    padding: 15px 20px;
+    background: #f1f8ff;
+    border-left: 4px solid #0078d7;
+    color: #333;
+    border-radius: 5px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Experience Section */
 .experience {
     padding: 4rem 2rem;
@@ -193,6 +208,16 @@ body.dark-mode {
     margin-top: 2rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-image {
+    width: 100%; /* Makes the image take the full width of its container */
+    max-width: 800px; /* Restricts the image to a maximum width */
+    height: auto; /* Maintains the aspect ratio */
+    margin: 20px auto; /* Centers the image with spacing */
+    display: block; /* Ensures the image is centered in its container */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow for better visual appeal */
 }
 
 /* Contact Section */

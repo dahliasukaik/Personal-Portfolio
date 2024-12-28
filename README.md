@@ -25,7 +25,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Fea
 ## 📁 Project Structure
 portfolio/
 ├── index.html
-├── about.html
+├── resume.html
 ├── experience.html
 ├── projects.html
 ├── skills.html
